@@ -19,7 +19,7 @@
 
 @font-face {
   font-family: 'Dunbar Tall';
-  src: url('fonts/DunbarTall_Ultra.otf') format('opentype');
+  src: url('./assets/fonts/DunbarTall_Ultra.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
 }
