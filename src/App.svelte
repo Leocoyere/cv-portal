@@ -156,14 +156,14 @@
 			IV - Learn more
 		  </h2>
 		<p class="leading-relaxed text-gray-700">
-			I'm always looking to expand my network, and I firmly believe that opportunities are created through connections. So, if you can’t help me directly but are in the tech industry, let’s connect on <a href="https://www.linkedin.com/in/leocoyere/?utm_source=qr-code&utm_medium=print&utm_campaign=disney-qr">LinkedIn</a>!
+			I'm always looking to expand my network, and I firmly believe that opportunities are created through connections. So, if you can’t help me directly but are in the tech industry, let’s connect on <a href="https://www.linkedin.com/in/leocoyere">LinkedIn</a>!
 		</p>
 		<p class="text-gray-700">Feel free to reach me at :<br><a href="mailto:leo.coyere.pro@gmail.com" class="text-indigo-600 font-semibold">leo.coyere.pro@gmail.com</a>.</p>
 		<h2 class="text-2xl text-teal-400 font-semibold" id="en-savoir-plus">
 			IV - En savoir plus
 		</h2>
 		<p class="leading-relaxed text-gray-700">
-			Je cherche toujours à étendre mon réseau, et je suis convaincu que c’est à travers les rencontres que se créent les opportunités. Donc, si vous ne pouvez pas m’aider directement, mais que vous travaillez dans le milieu de la tech, connectons-nous sur <a href="https://www.linkedin.com/in/leocoyere/?utm_source=qr-code&utm_medium=print&utm_campaign=disney-qr">LinkedIn</a> !
+			Je cherche toujours à étendre mon réseau, et je suis convaincu que c’est à travers les rencontres que se créent les opportunités. Donc, si vous ne pouvez pas m’aider directement, mais que vous travaillez dans le milieu de la tech, connectons-nous sur <a href="https://www.linkedin.com/in/leocoyere">LinkedIn</a> !
 		</p>
 		<p class="text-gray-700">N'hésitez pas à me contacter à :<br><a href="mailto:leo.coyere.pro@gmail.com" class="text-teal-500 font-semibold">leo.coyere.pro@gmail.com</a>.</p>
 	  </section>
