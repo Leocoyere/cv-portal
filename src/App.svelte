@@ -31,13 +31,13 @@
 	  </header>
 	  
 	  <section class="space-y-4 my-4">
-		<p class="leading-relaxed text-gray-700 bg-blue-600 bg-opacity-20 p-4 border-l-4 border-blue-600">
+		<p class="leading-relaxed text-gray-700 bg-blue-400 bg-opacity-20 p-4 border-l-4 border-blue-600">
 			If you're here, it means my QR code caught your attention, and I'm glad! First of all, I hope you're enjoying your time at Disneyland Paris.<br>
 			<!-- <strong>Since this is the place where dreams come true, maybe mine can too?</strong><br> -->
 			I'm a creative person, and I thought this QR code would be a great way to promote my search for a cybersecurity apprenticeship. If you're working in tech or know someone who is, feel free to share this link with your coworkers or friends—it would really help me a lot.<br>
 			You can learn more about me by scrolling down.
 		</p>
-		<p class="leading-relaxed text-gray-700 bg-pink-500 bg-opacity-20 p-4 border-l-4 border-pink-500">
+		<p class="leading-relaxed text-gray-700 bg-pink-300 bg-opacity-20 p-4 border-l-4 border-pink-500">
 			Si vous êtes ici, c'est que mon QR code a attiré votre attention, et j'en suis ravi&nbsp;! Avant tout, j'espère que vous profitez de votre visite à Disneyland Paris.<br>
 			<!-- <strong>Puisque c'est le lieu où les rêves deviennent réalité, peut-être que le mien le deviendra aussi&nbsp;?</strong><br> -->
 			Je suis une personne créative, et je me suis dit que ce QR code serait une bonne façon de promouvoir ma recherche d'alternance en cybersécurité. Si vous travaillez dans le secteur de la technologie ou connaissez quelqu'un qui y est, n'hésitez pas à partager ce lien avec vos collègues ou amis, cela m'aiderait énormément.<br>
